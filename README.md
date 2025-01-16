@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me 🧑‍💻</h2>
     <div>
         <a href="@9seo._.hui9">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=@9seo._.hui9">
@@ -59,9 +59,9 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats 🏅</h2>
     <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seohui-Hyung&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" /><br>
         <img src="https://github-readme-stats.vercel.app/api?username=Seohui-Hyung&custom_title=Seohui-Hyung's%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seohui-Hyung&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
     </div>
 </div>
