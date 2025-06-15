@@ -47,17 +47,15 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me 🧑‍💻</h2>
     <div>
-<!--         <a href="https://hazels-page.tistory.com/">
+        <a href="https://hazels-page.tistory.com/">
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://hazels-page.tistory.com/">
-        </a> -->
-    </div>
-    <div>
-<!--         <a href="https://www.notion.so/SSAFY-caead4c081b4477a84a9a4d4e707ce22?pvs=4">
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/SSAFY-caead4c081b4477a84a9a4d4e707ce22?pvs=4">
-        </a> -->
+        </a>
         <a href="mailto:ro.opretzelcham@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ro.opretzelcham@gmail.com">
         </a>
+        <!--         <a href="https://www.notion.so/SSAFY-caead4c081b4477a84a9a4d4e707ce22?pvs=4">
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/SSAFY-caead4c081b4477a84a9a4d4e707ce22?pvs=4">
+        </a> -->
     </div>
 </div>
 
