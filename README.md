@@ -10,6 +10,16 @@
 </div>
 
 <div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">PORTFOLIO</h2>
+    <p>
+        포트폴리오는 아래 PDF를 통해 확인하실 수 있습니다.<br/><br/>
+      <a href="https://github.com/Seohui-Hyung/Seohui-Hyung/raw/main/형서희_포트폴리오_25.06ver.pdf">
+        <img src="https://img.shields.io/badge/📄 형서희 포트폴리오-PDF-blue?style=for-the-badge" alt="Download Portfolio PDF">
+      </a>
+    </p>
+</div>
+
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Stacks 🛠️</h2>
     <div style="margin: 0 auto; text-align: center;">
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tools</h3>
